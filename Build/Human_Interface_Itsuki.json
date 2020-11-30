@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Itsuki_Human_Interface",
+"productVersion": "0.1",
+"dataUrl": "Human_Interface_Itsuki.data.unityweb",
+"wasmCodeUrl": "Human_Interface_Itsuki.wasm.code.unityweb",
+"wasmFrameworkUrl": "Human_Interface_Itsuki.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
